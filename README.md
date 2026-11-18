@@ -204,4 +204,4 @@ docs/            screenshots
 
 ## License
 
-MIT, see [LICENSE](LICENSE).
+MIT

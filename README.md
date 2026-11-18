@@ -2,7 +2,6 @@
 
 **1D NMR processing for JEOL & Bruker on Linux — GUI and command line.**
 
-*jebru* = **JE**OL + **BRU**ker: one open-source tool for raw data from both vendors.
 
 It opens raw FIDs from JEOL (`.jdf`) and Bruker (experiment folder, `fid`, or a `.zip` of either), processes them automatically (digital-filter correction, apodization, FT, phasing, baseline correction, solvent referencing), and turns ¹H spectra into journal-style data:
 
@@ -46,10 +45,7 @@ It is aimed at small-molecule organic chemistry (¹H / ¹³C); ¹⁹F, ³¹P and
 Requires Python ≥ 3.9 on Linux. The dependencies (numpy, scipy, nmrglue, matplotlib, pyqtgraph, PySide6) are installed automatically.
 
 ```bash
-# Debian / Ubuntu: Qt runtime library needed by PySide6
-sudo apt install libxcb-cursor0
-
-git clone https://github.com/<your-account>/jebru.git
+git clone https://github.com/gloomydog/jebru.git
 cd jebru
 python3 -m venv ~/.venvs/jebru
 ~/.venvs/jebru/bin/pip install .

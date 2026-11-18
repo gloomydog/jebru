@@ -194,8 +194,6 @@ docs/            screenshots
 ## References
 
 - G. R. Fulmer, A. J. M. Miller, N. H. Sherden, H. E. Gottlieb, A. Nudelman, B. M. Stoltz, J. E. Bercaw, K. I. Goldberg, *Organometallics* **2010**, *29*, 2176–2179. Source of the solvent and impurity tables.
-- H. E. Gottlieb, V. Kotlyar, A. Nudelman, *J. Org. Chem.* **1997**, *62*, 7512–7515. Source of the MTBE, 2-butanone and DMSO values.
-- L. Chen, Z. Weng, L. Goh, M. Garland, *J. Magn. Reson.* **2002**, *158*, 164–168. ACME automatic phasing.
 - J. J. Helmus, C. P. Jaroniec, *J. Biomol. NMR* **2013**, *55*, 355–367. nmrglue.
 
 ## License

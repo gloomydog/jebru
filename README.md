@@ -45,7 +45,7 @@ It is aimed at small-molecule organic chemistry (¹H / ¹³C); ¹⁹F, ³¹P and
 Requires Python ≥ 3.9 on Linux. The dependencies (numpy, scipy, nmrglue, matplotlib, pyqtgraph, PySide6) are installed automatically.
 
 ```bash
-git clone https://github.com/gloomydog/jebru.git
+git clone https://github.com/gloomydog/jebru
 cd jebru
 python3 -m venv ~/.venvs/jebru
 ~/.venvs/jebru/bin/pip install .
